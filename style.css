@@ -185,7 +185,7 @@ width: 150px;
 #sign-in .row  .col-1 p{
     color: var(--light-gray);
     margin-right:7rem;
-    font-size: 0.7em;
+    font-size: 20px;
     margin-top: 10px;
 }
 #sign-in .row .col-2 input{
