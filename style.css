@@ -257,7 +257,10 @@ margin-right: 10px;
 
 #footer .row .col-4 a :hover{
 color: white;
+}
 
+footer ul{
+    list-style: none;
 }
 /* footer end */
 
