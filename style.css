@@ -247,6 +247,12 @@ color: var(--light-gray);
 footer a {
     color: var(--light-gray);
 }
+
+footer a:hover{
+color: white;
+cursor: pointer;
+}
+
 #footer .row .col-4 i{
 border : 1px solid var(--light-gray);
 border-radius: 50%;
